@@ -1944,7 +1944,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #bdebff;
+  background: #0e53f7;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2817,7 +2817,7 @@ hr {
 }
 .site-nav-toggle {
   position: static;
-  float: none;
+  float: right;
 }
 .menu {
   float: right;
