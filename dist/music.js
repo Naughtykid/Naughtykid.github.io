@@ -4,20 +4,20 @@ const ap = new APlayer({
     autoplay: true,
     audio: [
       {
-        name: "Լ��",
-        artist: '�ܻ�',
+        name: "约定",
+        artist: '周慧',
         url: 'http://up.mcyt.net/?down/46314.mp3',
         cover: 'http://oeff2vktt.bkt.clouddn.com/image/84.jpg',
       },
       {
-        name: '�ֹ���û��',
-        artist: '��ΰ��',
+        name: '闹够了没有',
+        artist: '赖伟峰',
         url: 'http://up.mcyt.net/?down/32368.mp3',
         cover: 'http://oeff2vktt.bkt.clouddn.com/image/58.jpg',
       },
       {
-        name: '���֮��',
-        artist: '��������',
+        name: '天空之城',
+        artist: '井上杏美',
         url: 'http://up.mcyt.net/?down/47037.mp3',
         cover: 'http://oeff2vktt.bkt.clouddn.com/image/71.jpg',
       }
