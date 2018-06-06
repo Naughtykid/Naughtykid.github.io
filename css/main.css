@@ -2837,7 +2837,7 @@ hr {
 }
 .site-nav-toggle {
   position: static;
-  float: right;
+  float: none;
 }
 .menu {
   float: right;
